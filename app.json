@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "crypto-app",
+    "plugins":["expo-community-flipper"],
     "slug": "crypto-app",
     "version": "1.0.0",
     "orientation": "portrait",
